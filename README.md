@@ -7,6 +7,8 @@ Train Bob
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull request
+
 ###Copyright
 
 bob
