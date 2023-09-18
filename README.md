@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Adding a line for rebasing example.  And another line.
+Adding a line for rebasing example.  And another line, then
+more changes from myfeature branch too.
 
 ## Purpose
 Train Bob
